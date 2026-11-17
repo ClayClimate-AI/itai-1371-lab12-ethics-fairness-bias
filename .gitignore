@@ -1,0 +1,10 @@
+# Local environment and tooling
+.venv/
+.claude/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Kit material (course files and prep notes, not deliverables)
+kit/
